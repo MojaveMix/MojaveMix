@@ -83,12 +83,8 @@ fun_fact: "Turns bugs into features, and vulnerabilities into fixes 🔐"
 
 <div align="center">
 
-<a href="https://badr-moujahid.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://github.com/MojaveMix" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://badr-moujahid.netlify.app)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MojaveMix)
 
 </div>
 
